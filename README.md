@@ -1,6 +1,8 @@
 # ComfyUI Generation Tool for Blender 3.6+
 Adds the ability to render an image with prompt from your local ComfyUI installation into your Blender workspace via N Panel.
 
+<img src="https://github.com/Smuzzies/CGT-ComfyUI-Generation-Tool/assets/110495122/ff47a6da-3335-4588-86b2-1e0de6ba3f25" width="150" height="150">
+
 Coming soon...
 
 <table>
