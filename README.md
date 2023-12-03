@@ -1,5 +1,5 @@
-# sdxl_local_blender_addon
-Adds the ability to render and image with prompt into your Blender 3+ workspace via N Panel.
+# ComfyUI Generation Tool for Blender 3.6+
+Adds the ability to render an image with prompt from your local ComfyUI installation into your Blender workspace via N Panel.
 
 Coming soon...
 
